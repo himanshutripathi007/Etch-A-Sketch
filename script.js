@@ -1,3 +1,6 @@
+/* FOR SOME TOPIC I REFERED TO LLM WHICH I DID NOT GET IT . THIS PROJECT IS NOT FULLY
+    CREATED BY ME */
+
 const resizebtn=document.querySelector("#resizeBtn");
 const container=document.querySelector("#container");
 
